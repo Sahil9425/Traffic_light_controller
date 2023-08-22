@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed Mar 01 21:37:04 2023
+# Process ID: 16332
+# Current directory: D:/trafic light/trafic light.runs/synth_1
+# Command line: vivado.exe -log traficlight.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source traficlight.tcl
+# Log file: D:/trafic light/trafic light.runs/synth_1/traficlight.vds
+# Journal file: D:/trafic light/trafic light.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source traficlight.tcl -notrace

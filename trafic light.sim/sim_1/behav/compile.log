@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/trafic light/trafic light.srcs/sources_1/new/traficlight.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module traficlight
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/trafic light/trafic light.srcs/sim_1/new/traficlighttb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module traficlighttb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/trafic light/trafic light.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
